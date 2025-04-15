@@ -4,6 +4,7 @@ import Features from '@/components/Features';
 import HowItWorks from '@/components/HowItWorks';
 import Testimonials from '@/components/Testimonials';
 import Footer from '@/components/Footer';
+import { Analytics } from '@vercel/analytics/next';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <HowItWorks />
       <Testimonials />
       <Footer />
+      <Analytics />
     </main>
   );
 }
