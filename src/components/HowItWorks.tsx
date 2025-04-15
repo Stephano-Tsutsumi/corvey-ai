@@ -90,7 +90,7 @@ const HowItWorks = () => {
                     <p className="ml-16 text-lg leading-6 font-medium text-gray-900 dark:text-white">Personalized responses</p>
                   </dt>
                   <dd className="mt-2 ml-16 text-base text-gray-500 dark:text-gray-300">
-                    Get homework help in your teacher's familiar communication style, making complex concepts easier to understand.
+                    Get homework help in your teacher&apos;s familiar communication style, making complex concepts easier to understand.
                   </dd>
                 </div>
               </dl>
@@ -128,7 +128,7 @@ const HowItWorks = () => {
                   <p className="ml-16 text-lg leading-6 font-medium text-gray-900 dark:text-white">Intelligent search</p>
                 </dt>
                 <dd className="mt-2 ml-16 text-base text-gray-500 dark:text-gray-300">
-                  Discover connections between all your learning materials that you'd never find manually. Our semantic search finds relationships between lecture notes, readings, and discussions, helping you understand topics more deeply.
+                  Discover connections between all your learning materials that you&apos;d never find manually. Our semantic search finds relationships between lecture notes, readings, and discussions, helping you understand topics more deeply.
                 </dd>
               </div>
 

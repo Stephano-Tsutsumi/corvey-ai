@@ -50,7 +50,7 @@ const Features = () => {
     {
       icon: Users,
       title: "Teacher AI Clones",
-      description: "Upload class videos to capture your teacher's communication style and create an AI version to help with homework questions outside the classroom."
+      description: "Upload class videos to capture your teacher&apos;s communication style and create an AI version to help with homework questions outside the classroom."
     },
     {
       icon: Layout,
