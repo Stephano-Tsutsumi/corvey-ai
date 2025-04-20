@@ -50,7 +50,7 @@ const Hero = () => {
             <div className="mx-auto max-w-md sm:max-w-xl md:max-w-2xl px-4 sm:px-6 lg:max-w-none lg:px-0 w-full">
               <div className="w-full lg:relative lg:h-full flex justify-center items-center">
                 <Image 
-                  src="/Corvey_dash_v3.png" 
+                  src="/corvey-dash-v4.png" 
                   alt="Corvey AI Dashboard" 
                   width={1100} 
                   height={900} 
